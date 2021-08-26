@@ -1,0 +1,5 @@
+PLZ run
+
+npm install
+
+command every time when you fetch the changes, to get latest changes in package.
